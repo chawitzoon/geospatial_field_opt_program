@@ -1,0 +1,33 @@
+{
+    "small": { 
+        "model": "Kubota ER460",
+        "harvest_speed": 0.3,
+        "width": 0.6,
+        "cleaning_time": 2,
+        "travel_speed": 0.8,
+        "daily_cost": 60000,
+        "one_time_cost": 30000,
+        "number": 1
+    }, 
+    "medium": { 
+        "model": "unknown",
+        "harvest_speed": 0.5,
+        "width": 1.2,
+        "cleaning_time": 2,
+        "travel_speed": 1.2,
+        "daily_cost": 120000,
+        "one_time_cost": 60000,
+        "number": 1
+    },
+    "large": { 
+        "model": "assumption",
+        "harvest_speed": 0.6,
+        "width": 1.5,
+        "cleaning_time": 2,
+        "travel_speed": 1.5,
+        "daily_cost": 160000,
+        "one_time_cost": 80000,
+        "number": 0
+    }
+
+}
